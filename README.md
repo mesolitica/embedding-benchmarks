@@ -1,6 +1,6 @@
 # embedding-benchmarks
 
-Benchmarking Embedding models for Malaysian context, HuggingFace space at https://huggingface.co/spaces/mesolitica/Malaysian-Embedding-Leaderboard
+Benchmarking RAG Embedding models for Malaysian context, HuggingFace space at https://huggingface.co/spaces/mesolitica/Malaysian-Embedding-Leaderboard
 
 📈 We evaluate models based on 2 datasets,
 
